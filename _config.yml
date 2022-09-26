@@ -1,7 +1,7 @@
 # Setup
 title:               Daniel's Page
 tagline:             ''
-description:         'My personal page. Based on the Jekyll Lanyon theme (by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>)'
+description:         'My personal page (based on <a href="https://lanyon.getpoole.com" target="_blank">Lanyon - A Jekyll theme</a>).'
 url:                 'https://dm6801.github.io'
 baseurl:             ''
 paginate:            5
